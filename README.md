@@ -59,3 +59,15 @@ Make sure all 7 backend services are running first!
 npm run build
 ```
 Output goes to the `dist/` folder — ready to deploy on Vercel or Netlify for free!
+
+
+## 🔗 Related Repository
+
+*Backend:* https://github.com/Sanskar53/mediconnect
+
+The backend is built with Java Spring Boot microservices architecture including:
+- 7 independent microservices
+- MongoDB databases
+- JWT authentication
+- Spring Cloud Eureka service discovery
+- API Gateway routing
